@@ -26,3 +26,9 @@ A cargo de la organización y el trabajo grupal efectivo, intermediario principa
 Estudiante de Ingeniería Biomédica, interesada en el área de Tejidos y Biomateriales, con el objetivo de desarrollar servicios de regeneracion celular para personas que lo necesitan.
 ## Encargada de diseño 3D
 Diseñar el prototipo  en diferentes vistas en la plataforma y modelarlo en diferentes perspectivas, para que luego se puedar imprimir el prototipo.
+
+[![Sin-t-tulo.png](https://i.postimg.cc/nVSGyyqp/Sin-t-tulo.png)](https://postimg.cc/dDdCdSWx)
+## EDUARDO CARBAJAL 
+Estudiante de Ingeniería Biomédica, interesado en el área de Rehabilitación y Biomecánica, con el objetivo de desarrollar dispositivos innovadores que mejoren la movilidad, faciliten la recuperación y aumenten la calidad de vida de las personas.
+## Encargado de manufactura digital
+A cargo de llevar a cabo el proceso de fabricación utilizando tecnologías avanzadas como la impresión 3D, corte láser, etc. Me aseguro de que cada componente sea producido con precisión y cumpla con los más altos estándares de calidad.
