@@ -16,6 +16,9 @@ A cargo del proceso de planificación de esquemas para los componentes electrico
 [![Alexis-bata.jpg](https://i.postimg.cc/rwsmTHrQ/Alexis-bata.jpg)](https://postimg.cc/DSVFdB5X)
 ## ALEXIS PEREZ
 Estudiante de Ingeniería Biomédica, con área de interés la Ingeniería de Tejidos y Biomateriales, con el objetivo de poder ayudar a la salud de la población mundial a base de investigaciones científicas y experimentación.
+## Encargado de la coordinación general
+A cargo de la organización y el trabajo grupal efectivo, intermediario principal con los asesores ante alguna situación de consulta o problemática.
+
 
 
 [![foto-yo-funbio.jpg](https://i.postimg.cc/sgghmQ5v/foto-yo-funbio.jpg)](https://postimg.cc/7fjhYLsk)
