@@ -16,3 +16,10 @@ A cargo del proceso de planificación de esquemas para los componentes electrico
 [![Alexis-bata.jpg](https://i.postimg.cc/rwsmTHrQ/Alexis-bata.jpg)](https://postimg.cc/DSVFdB5X)
 ## ALEXIS PEREZ
 Estudiante de Ingeniería Biomédica, con área de interés la Ingeniería de Tejidos y Biomateriales, con el objetivo de poder ayudar a la salud de la población mundial a base de investigaciones científicas y experimentación.
+
+
+[![foto-yo-funbio.jpg](https://i.postimg.cc/sgghmQ5v/foto-yo-funbio.jpg)](https://postimg.cc/7fjhYLsk)
+## ALEJANDRA ARAOZ MIRANDA
+Estudiante de Ingeniería Biomédica, interesada en el área de Tejidos y Biomateriales, con el objetivo de desarrollar servicios de regeneracion celular para personas que lo necesitan.
+## Encargada de diseño 3D
+Diseñar el prototipo  en diferentes vistas en la plataforma y modelarlo en diferentes perspectivas, para que luego se puedar imprimir el prototipo.
