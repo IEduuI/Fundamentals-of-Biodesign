@@ -11,3 +11,8 @@ A cargo de conseguir y ensamblar correcta y efectivamente los componentes electr
 Estudiante de Ingeniería Biomédica, interesada en el área de Biomecánica con el objetivo de poder desarrollar soluciones capaces de garantizar el bienestar y calidad de vida de las personas.
 ## Encargada del diseño electronico
 A cargo del proceso de planificación de esquemas para los componentes electricos para garantizar su funcionamiento en el producto final.
+
+
+[![Alexis-bata.jpg](https://i.postimg.cc/rwsmTHrQ/Alexis-bata.jpg)](https://postimg.cc/DSVFdB5X)
+## ALEXIS PEREZ
+Estudiante de Ingeniería Biomédica, con área de interés la Ingeniería de Tejidos y Biomateriales,
